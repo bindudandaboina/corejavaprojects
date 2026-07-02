@@ -1,4 +1,4 @@
-package com.Lstatements;
+package com.projects;
 import java.util.Scanner;
 
 public class SwitchCae3 {
